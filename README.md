@@ -14,7 +14,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](<img src="/design/Screenshot-Challenge 2.png")
+<img src="/design/Screenshot-Challenge 2.png">
 
 ### Links
 

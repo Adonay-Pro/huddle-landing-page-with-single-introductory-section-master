@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](<img src="/design/Screenshot-Challenge 2.png")
+<img src="/design/Screenshot 2021-09-19 at 12-03-31 Frontend Mentor Huddle landing page with single introductory section.png"
 
 ### Links
 

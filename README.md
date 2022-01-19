@@ -13,6 +13,5 @@ Users should be able to:
 
 <img src="/design/Screenshot 2021-09-19 at 12-03-31 Frontend Mentor Huddle landing page with single introductory section.png">
 
-- Frontend Mentor - [@Adonay-Pro](https://www.frontendmentor.io/profile/Adonay-Pro)
 
 
